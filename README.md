@@ -4,7 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <link rel="stylesheet" href="README_files/katex.min.css">
-<script defer="defer" src="README_files/katex.min.js" onload="processMathHTML();"></script>
 <link rel="stylesheet" type="text/css" href="README_files/CRAN_web.css">
 </head><body><div class="container">
 
